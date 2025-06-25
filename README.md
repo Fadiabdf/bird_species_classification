@@ -44,9 +44,10 @@ The model links predictions to **the Xeno-Canto API** and plays back the sound o
 ### 🔗 Download the trained model
 
 You can download the trained model file here:  
-📥 [best_model_final.pth (Google Drive File)](https://drive.google.com/file/d/1CYnerIBOQLwc3N7G6EdGKK3l0yGQVRY3/view?usp=drive_link)
+- 📥 [best_model_final.pth (Google Drive File)](https://drive.google.com/file/d/1CYnerIBOQLwc3N7G6EdGKK3l0yGQVRY3/view?usp=drive_link)
+
 you find here info about the model :
-📥 [Bird_Model (Google Drive Folder)](https://drive.google.com/drive/folders/1yvfD1v39LlubdYMmf-BExVP2ugMYQ-VB?usp=drive_link)
+- 📥 [Bird_Model (Google Drive Folder)](https://drive.google.com/drive/folders/1yvfD1v39LlubdYMmf-BExVP2ugMYQ-VB?usp=drive_link)
 ---
 
 # Authors
